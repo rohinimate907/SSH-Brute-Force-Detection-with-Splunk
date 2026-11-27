@@ -236,5 +236,4 @@ soc-day01-ssh-brute-force-detection/
     ├── 04_detection.png
     ├── 05_investigation.png
     └── 06_incident_report.png
-```
 
